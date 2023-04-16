@@ -1,1 +1,1 @@
-FlappyBird game built using Pygame
+My first game built using Pygame.
